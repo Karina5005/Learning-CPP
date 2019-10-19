@@ -1,2 +1,2 @@
 # Learning-C
-My little lab work done in C to improve skills
+My little projects done in C to improve skills
